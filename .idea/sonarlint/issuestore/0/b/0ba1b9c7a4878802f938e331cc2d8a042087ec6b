@@ -1,2 +1,9 @@
 
-E	java:S106"+Replace this use of System.out by a logger.(‚ÞÏ¥ýÿÿÿÿ
+_
+java:S2094"BRemove this empty class, write its code or make it an "interface".(àªÅö8É½Š÷Û1
+O
+java:S1135"2Complete the task associated to this TODO comment.(ü—ŠÖ8Ï½Š÷Û1
+T
+java:S1135"2Complete the task associated to this TODO comment.(æÎöÒÿÿÿÿÿ8Ï½Š÷Û1
+N
+java:S1135"2Complete the task associated to this TODO comment.(Ê±’Z8Ï½Š÷Û1

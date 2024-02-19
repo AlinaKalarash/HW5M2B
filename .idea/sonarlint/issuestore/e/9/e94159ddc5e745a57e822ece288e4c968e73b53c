@@ -1,0 +1,16 @@
+
+€
+java:S1488:"^Immediately return this expression instead of assigning it to the temporary variable "result".(Ó°¬Ñøÿÿÿÿ8ãÏ¢øÛ1
+O
+java:S1135"2Complete the task associated to this TODO comment.(ü—ŠÖ8ëÏ¢øÛ1
+T
+java:S1135"2Complete the task associated to this TODO comment.(æÎöÒÿÿÿÿÿ8ëÏ¢øÛ1
+N
+java:S1135"2Complete the task associated to this TODO comment.(Ê±’Z8ëÏ¢øÛ1
+G	java:S106"+Replace this use of System.out by a logger.(İ…‚Ò8ìÏ¢øÛ1
+L	java:S106"+Replace this use of System.out by a logger.(²“·ıÿÿÿÿ8ìÏ¢øÛ1
+F	java:S106"+Replace this use of System.out by a logger.(Ä“8íÏ¢øÛ1
+W
+java:S18548":Remove this useless assignment to local variable "memory".(ƒºÔÜ8îÏ¢øÛ1
+H
+java:S14818"+Remove this unused "memory" local variable.(ƒºÔÜ8úÏ¢øÛ1
